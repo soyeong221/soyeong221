@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://github.com/soyeong221-ctrl">
-    <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=F8A5C2&text=Soyeong%27s%20Archive&fontColor=FFFFFF&fontSize=58&animation=fadeIn&desc=Projects%2C%20Notes%20%26%20Portfolio&descAlignY=65&descSize=22"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=F8A5C2&height=250&section=header&text=Soyeong's%20Archive&fontSize=60&fontColor=FFFFFF&animation=fadeIn"/>
 </p>
 
-
-# 프로필
+<h2 align="center">👋 Profile</h2>
 
 - 이름: 박소영
+- 관심 분야: IoT · Embedded · Firmware
+- Language: C/C++, Python, C#, SQL
+- Platform: Raspberry Pi · Arduino
 
 ## 기술스택
 
