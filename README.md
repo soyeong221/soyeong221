@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-  🌸 IoT · Embedded Developer 🌸
+   IoT · Embedded Developer 
 </h2>
 
 - 이름: 박소영
@@ -32,3 +32,8 @@
 |---|---|
 |Language | [C]<br>구조적 프로그래밍<br>[C++]<br>- 객체지향 프로그래밍<br>-STL프로그래밍
 |OS |[Windows\<br>- Docker <br>[Linux]<br>- Ubuntu 22.4.1 <br>- Raspbian
+
+### 프로젝트 리스트
+-[WPF]
+  - [OpenAPI CCTV 모니터링앱](https://github.com/soyeong221-ctrl/iot-dotnet-2026/blob/main/TOYPROJECT1.md)
+- 
