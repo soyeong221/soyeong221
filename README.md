@@ -6,7 +6,10 @@
    IoT · Embedded Developer 
 </h2>
 
-- 이름: 박소영
+# 프로필
+- 이름: 박소영(Park So Yeong)
+- 이메일: soyeong221@gmail.com
+- 전공: 전기공학 - 디스플레이 반도
 - 관심 분야: IoT · Embedded · Firmware
 - Language: C/C++, Python, C#, SQL
 - Platform: Raspberry Pi · Arduino
@@ -16,14 +19,22 @@
 ### 사용언어
 
 <p align="left">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
-    
+    <img width="40" height="40" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming" title="c-programming" />
+    <img width="40" height="40" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo" title="c++" />
+    <img width="40" height="40" src="https://img.icons8.com/fluency/48/c-sharp-logo.png" alt="c-sharp-logo" title="c#" />
+    ...
+</p>
+
+<p align="left">
+    <img src="https://img.shields.io/npm/v/npm.svg?logo=nodedotjs">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
 </p>
 
 ### 사용툴
 <p align="left">
-
+    <img width="40" height="40" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="visual-studio--v2" title="Visual Studio" />
+    ...
 </p>
 
 ### 기술명세
