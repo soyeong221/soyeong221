@@ -9,7 +9,7 @@
 # 프로필
 - 이름: 박소영(Park So Yeong)
 - 이메일: soyeong221@gmail.com
-- 전공: 전기공학 - 디스플레이 반도
+- 전공: 전기공학 - 디스플레이 반도체
 - 관심 분야: IoT · Embedded · Firmware
 - Language: C/C++, Python, C#, SQL
 - Platform: Raspberry Pi · Arduino
