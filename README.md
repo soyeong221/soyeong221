@@ -66,7 +66,7 @@
 
 | 분류 | 보유 기술 |
 |------|-----------|
-| **언어** | **C** - 센서 연동 및 하드웨어 제어<br>**C++** - 객체지향 프로그래밍, STL 활용<br>**Python** - IoT 제어, OpenCV, 데이터 처리<br>**C#** - WPF 기반 데스크톱 애플리케이션 개발<br>**SQL** - CRUD, JOIN, DB 설계 |
+| **언어** | **C** - 센서 연동 및 하드웨어 제어<br>**C++** - 객체지향 프로그래밍, STL 활용<br>**Python** - IoT 제어, ROS2, OpenCV, 데이터 처리<br>**C#** - WPF 기반 데스크톱 애플리케이션 개발<br>**SQL** - CRUD, JOIN, DB 설계 |
 | **운영체제** | Windows, Ubuntu Linux, Raspberry Pi OS |
 | **IoT / 임베디드** | Raspberry Pi, Arduino, GPIO, MQTT, ROS2, Serial Communication |
 | **영상 처리** | OpenCV, YOLOv8 |
