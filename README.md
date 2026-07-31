@@ -11,7 +11,7 @@
 - Email: soyeong221@gmail.com
 - Major: 전기공학부 · 디스플레이반도체공학전공
 - Interests: IoT · Embedded · Firmware
-- Languages: C/C++, Python, C#, SQL
+- Languages: C, C++, Python, C#, SQL
 - Platforms: Windows, Ubuntu Linux, Raspberry Pi OS
 - Hardware: Raspberry Pi, Arduino
 
@@ -30,36 +30,35 @@
 ## Languages
 
 <p align="left">
-    <img width="40" height="40" src="https://img.icons8.com/color/48/c-programming.png"/>
-    <img width="40" height="40" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png"/>
-    <img width="40" height="40" src="https://img.icons8.com/color/48/python.png"/>
-    <img width="40" height="40" src="https://img.icons8.com/fluency/48/c-sharp-logo.png"/>
+    <img width="36" height="36" src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
+    <img width="36" height="36" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="C++"/>
+    <img width="36" height="36" src="https://img.icons8.com/color/48/python.png" alt="Python"/>
+    <img width="36" height="36" src="https://img.icons8.com/fluency/48/c-sharp-logo.png" alt="C#"/>
 </p>
 
 ## Technologies
 
 <p align="left">
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
-    <img src="https://img.shields.io/badge/YOLO-111F68?style=flat"/>
-    <img src="https://img.shields.io/badge/MQTT-660066?style=flat"/>
-    <img src="https://img.shields.io/badge/ROS2-22314E?style=flat"/>
-    <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white"/>
-    <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=.net&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
+    <img src="https://img.shields.io/badge/YOLO-111F68?style=flat" alt="YOLO"/>
+    <img src="https://img.shields.io/badge/MQTT-660066?style=flat" alt="MQTT"/>
+    <img src="https://img.shields.io/badge/ROS2-22314E?style=flat" alt="ROS2"/>
+    <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white" alt="Qt"/>
 </p>
 
 ## Tools
 
 <p align="left">
-    <img width="40" height="40" src="https://img.icons8.com/color/48/visual-studio--v2.png"/>
-    <img width="40" height="40" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png"/>
-    <img width="40" height="40" src="https://img.icons8.com/color/48/git.png"/>
-    <img width="40" height="40" src="https://img.icons8.com/fluency/48/github.png"/>
-    <img width="40" height="40" src="https://img.icons8.com/color/48/docker.png"/>
-    <img width="40" height="40" src="https://img.icons8.com/dusk/64/postman-api.png"/>
-    <img width="40" height="40" src="https://img.icons8.com/color/48/mysql-logo.png"/>
-    <img width="40" height="40" src="https://img.icons8.com/color/48/linux.png"/>
-    <img width="40" height="40" src="https://img.icons8.com/color/48/raspberry-pi.png"/>
-    <img width="40" height="40" src="https://img.icons8.com/fluency/48/arduino.png"/>
+    <img width="36" height="36" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="Visual Studio"/>
+    <img width="36" height="36" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="VS Code"/>
+    <img width="36" height="36" src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+    <img width="36" height="36" src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
+    <img width="36" height="36" src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
+    <img width="36" height="36" src="https://img.icons8.com/dusk/64/postman-api.png" alt="Postman"/>
+    <img width="36" height="36" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
+    <img width="36" height="36" src="https://img.icons8.com/color/48/linux.png" alt="Linux"/>
+    <img width="36" height="36" src="https://img.icons8.com/color/48/raspberry-pi.png" alt="Raspberry Pi"/>
+    <img width="36" height="36" src="https://img.icons8.com/fluency/48/arduino.png" alt="Arduino"/>
 </p>
 
 ---
