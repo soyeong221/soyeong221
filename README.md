@@ -9,7 +9,7 @@
 # Profile
 - Name: 박소영 (Park So Yeong)
 - Email: soyeong221@gmail.com
-- Major: 전기공학부 · 디스플레이반도체공전공
+- Major: 전기공학부 · 디스플레이반도체공학전공
 - Interests: IoT · Embedded · Firmware
 - Languages: C/C++, Python, C#, SQL
 - OS: Windows, Ubuntu Linux, Raspberry Pi OS
