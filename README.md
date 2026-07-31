@@ -45,12 +45,6 @@
 |OS |[Windows\<br>- Docker <br>[Linux]<br>- Ubuntu 22.4.1 <br>- Raspbian
 
 
-## 📂 Portfolio
+## 🔗 Portfolio
 
-🔗 View Portfolio
 https://github.com/soyeong221/portfolio
-
-### 프로젝트 리스트(수정 전)
-> C# WPF 기반 지도형 CCTV 모니터링 프로그램
-🔗 [View Project](https://github.com/soyeong221/iot-dotnet-2026/blob/main/TOYPROJECT1.md)
-
