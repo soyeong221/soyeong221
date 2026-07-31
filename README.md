@@ -14,7 +14,7 @@
 - Language: C/C++, Python, C#, SQL
 - Platform: Raspberry Pi · Arduino · Linux
 
---
+---
 
 # 포트폴리오
 
@@ -22,7 +22,7 @@
 
 🔗 **https://github.com/soyeong221/portfolio**
 
---
+---
 
 # 기술 스택
 
@@ -56,7 +56,7 @@ MySQL / DBeaver: 데이터베이스 설계, SQL 작성 및 데이터 확인
 Linux: Ubuntu 및 Raspberry Pi 기반 개발 환경 사용
 Arduino IDE: Arduino 센서 및 모터 제어 코드 작성
 
---
+---
 
 # 기술 명세
 
