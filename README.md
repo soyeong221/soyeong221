@@ -12,7 +12,17 @@
 - 전공: 전기공학 - 디스플레이 반도체
 - 관심 분야: IoT · Embedded · Firmware
 - Language: C/C++, Python, C#, SQL
-- Platform: Raspberry Pi · Arduino · Linux<br>
+- Platform: Raspberry Pi · Arduino · Linux
+
+--
+
+# 포트폴리오
+
+프로젝트별 개발 과정, 시스템 구성도, 트러블슈팅 및 기술 문서를 정리한 포트폴리오입니다.
+
+🔗 **https://github.com/soyeong221/portfolio**
+
+--
 
 # 기술 스택
 
@@ -44,7 +54,9 @@ Docker: 컨테이너 기반 개발 환경 구성 실습
 Postman: REST API 요청 및 응답 테스트
 MySQL / DBeaver: 데이터베이스 설계, SQL 작성 및 데이터 확인
 Linux: Ubuntu 및 Raspberry Pi 기반 개발 환경 사용
-Arduino IDE: Arduino 센서 및 모터 제어 코드 작성<br>
+Arduino IDE: Arduino 센서 및 모터 제어 코드 작성
+
+--
 
 # 기술 명세
 
@@ -57,11 +69,3 @@ Arduino IDE: Arduino 센서 및 모터 제어 코드 작성<br>
 | **데이터베이스** | MySQL, SQL Server, ERD 설계 |
 | **프레임워크 / 라이브러리** | PyQt5, WPF(.NET), ASP.NET Core Web API |
 | **개발 도구** | Git, GitHub, Visual Studio, VS Code, DBeaver, Postman, Docker |
-
----
-
-# 포트폴리오
-
-프로젝트별 개발 과정, 시스템 구성도, 트러블슈팅 및 기술 문서를 정리한 포트폴리오입니다.
-
-🔗 **https://github.com/soyeong221/portfolio**
