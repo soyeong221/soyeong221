@@ -16,7 +16,7 @@
 
 # 기술 스택
 
-## 💻 사용 언어
+## 사용 언어
 
 <p align="left">
     <img width="40" height="40" src="https://img.icons8.com/color/48/c-programming.png" alt="C" title="C"/>
@@ -33,14 +33,20 @@
     <img src="https://img.shields.io/badge/ROS2-22314E?style=flat"/>
 </p>
 
-## 🔧 사용 도구
+## 사용 도구
 
-<p align="left">
-    <img width="40" height="40" src="https://img.icons8.com/color/48/visual-studio--v2.png" title="Visual Studio"/>
-    <!-- VS Code, Git, GitHub, Docker 등 -->
-</p>
+<p align="left"> <img width="40" height="40" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="Visual Studio" title="Visual Studio"/> <img width="40" height="40" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="Visual Studio Code" title="Visual Studio Code"/> <img width="40" height="40" src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git"/> <img width="40" height="40" src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" title="GitHub"/> <img width="40" height="40" src="https://img.icons8.com/color/48/docker.png" alt="Docker" title="Docker"/> <img width="40" height="40" src="https://img.icons8.com/dusk/64/postman-api.png" alt="Postman" title="Postman"/> <img width="40" height="40" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" title="MySQL"/> <img width="40" height="40" src="https://img.icons8.com/color/48/linux.png" alt="Linux" title="Linux"/> <img width="40" height="40" src="https://img.icons8.com/color/48/raspberry-pi.png" alt="Raspberry Pi" title="Raspberry Pi"/> <img width="40" height="40" src="https://img.icons8.com/fluency/48/arduino.png" alt="Arduino" title="Arduino"/> </p>
 
-# 📚 기술 명세
+Visual Studio: C, C++, C# 및 WPF 프로젝트 개발
+Visual Studio Code: Python, ROS2, Raspberry Pi 및 문서 작성
+Git / GitHub: 소스코드 버전 관리 및 프로젝트 문서화
+Docker: 컨테이너 기반 개발 환경 구성 실습
+Postman: REST API 요청 및 응답 테스트
+MySQL / DBeaver: 데이터베이스 설계, SQL 작성 및 데이터 확인
+Linux: Ubuntu 및 Raspberry Pi 기반 개발 환경 사용
+Arduino IDE: Arduino 센서 및 모터 제어 코드 작성
+
+# 기술 명세
 
 | 분류 | 보유 기술 |
 |---|---|
@@ -54,7 +60,7 @@
 
 ---
 
-# 📂 포트폴리오
+# 포트폴리오
 
 프로젝트별 개발 과정, 시스템 구성도, 트러블슈팅 및 기술 문서를 정리한 포트폴리오입니다.
 
