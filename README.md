@@ -21,7 +21,7 @@
 
 프로젝트의 개발 과정, 시스템 아키텍처, 트러블슈팅 및 기술 문서를 정리한 포트폴리오입니다.
 
-🔗 **https://github.com/soyeong221/portfolio**
+🔗 [Portfolio Repository](https://github.com/soyeong221/portfolio)
 
 ---
 
