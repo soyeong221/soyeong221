@@ -12,7 +12,7 @@
 - Major: 전기공학부 · 디스플레이반도체공학전공
 - Interests: IoT · Embedded · Firmware
 - Languages: C/C++, Python, C#, SQL
-- OS: Windows, Ubuntu Linux, Raspberry Pi OS
+- Platforms: Windows, Ubuntu Linux, Raspberry Pi OS
 - Hardware: Raspberry Pi, Arduino
 
 ---
@@ -43,6 +43,8 @@
     <img src="https://img.shields.io/badge/YOLO-111F68?style=flat"/>
     <img src="https://img.shields.io/badge/MQTT-660066?style=flat"/>
     <img src="https://img.shields.io/badge/ROS2-22314E?style=flat"/>
+    <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=.net&logoColor=white"/>
 </p>
 
 ## Tools
@@ -62,14 +64,15 @@
 
 ---
 
-# Skills
+## Skills
 
-| 분류 | 보유 기술 |
-|------|-----------|
-| **언어** | **C** - 센서 연동 및 하드웨어 제어<br>**C++** - 객체지향 프로그래밍, STL 활용<br>**Python** - IoT 제어, ROS2, OpenCV, 데이터 처리<br>**C#** - WPF 기반 데스크톱 애플리케이션 개발<br>**SQL** - CRUD, JOIN, DB 설계 |
-| **운영체제** | Windows, Ubuntu Linux, Raspberry Pi OS |
-| **IoT / 임베디드** | Raspberry Pi, Arduino, GPIO, MQTT, ROS2, Serial Communication |
-| **영상 처리** | OpenCV, YOLOv8 |
-| **데이터베이스** | MySQL, SQL Server, ERD 설계 |
-| **프레임워크 / 라이브러리** | PyQt5, WPF(.NET), ASP.NET Core Web API |
-| **개발 도구** | Git, GitHub, Visual Studio, VS Code, DBeaver, Postman, Docker |
+| 분야 | 기술 |
+|---|---|
+| Language | C, C++, Python, C#, SQL |
+| IoT / Embedded | Raspberry Pi, Arduino, GPIO, Sensor Control |
+| Communication | MQTT, ROS2 Pub/Sub, Serial Communication, TCP/IP, REST API |
+| Vision / AI | OpenCV, YOLOv8 |
+| Application | Qt, PyQt5, WPF (.NET), ASP.NET Core Web API |
+| Web | HTML, CSS, JavaScript |
+| Database | MySQL, SQL Server, ERD, CRUD |
+| Environment | Windows, Ubuntu Linux, Raspberry Pi OS, Git, GitHub, Visual Studio, VS Code, Docker, DBeaver, Postman |
