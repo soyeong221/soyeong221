@@ -7,16 +7,16 @@
 </h2>
 
 # 프로필
-- 이름: 박소영(Park So Yeong)
-- 이메일: soyeong221@gmail.com
-- 전공: 전기공학 - 디스플레이 반도체
-- 관심 분야: IoT · Embedded · Firmware
+- Name: 박소영(Park So Yeong)
+- Email: soyeong221@gmail.com
+- Major: 전기공학 - 디스플레이 반도체
+- Interests: IoT · Embedded · Firmware
 - Language: C/C++, Python, C#, SQL
 - Platform: Raspberry Pi · Arduino · Linux
 
 ---
 
-# 포트폴리오
+# Portfolio
 
 프로젝트별 개발 과정, 시스템 구성도, 트러블슈팅 및 기술 문서를 정리한 포트폴리오입니다.
 
@@ -24,9 +24,9 @@
 
 ---
 
-# 기술 스택
+# Tech Stack
 
-## 사용 언어
+## Languages
 
 <p align="left">
     <img width="40" height="40" src="https://img.icons8.com/color/48/c-programming.png" alt="C" title="C"/>
@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/ROS2-22314E?style=flat"/>
 </p>
 
-## 사용 도구
+## Tools
 
 <p align="left"> <img width="40" height="40" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="Visual Studio" title="Visual Studio"/> <img width="40" height="40" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="Visual Studio Code" title="Visual Studio Code"/> <img width="40" height="40" src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git"/> <img width="40" height="40" src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" title="GitHub"/> <img width="40" height="40" src="https://img.icons8.com/color/48/docker.png" alt="Docker" title="Docker"/> <img width="40" height="40" src="https://img.icons8.com/dusk/64/postman-api.png" alt="Postman" title="Postman"/> <img width="40" height="40" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" title="MySQL"/> <img width="40" height="40" src="https://img.icons8.com/color/48/linux.png" alt="Linux" title="Linux"/> <img width="40" height="40" src="https://img.icons8.com/color/48/raspberry-pi.png" alt="Raspberry Pi" title="Raspberry Pi"/> <img width="40" height="40" src="https://img.icons8.com/fluency/48/arduino.png" alt="Arduino" title="Arduino"/> </p>
 
@@ -58,7 +58,7 @@ Arduino IDE: Arduino 센서 및 모터 제어 코드 작성
 
 ---
 
-# 기술 명세
+# Skills
 
 | 분류 | 보유 기술 |
 |---|---|
