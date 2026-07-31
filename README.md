@@ -13,7 +13,7 @@
 - 관심 분야: IoT · Embedded · Firmware
 - Language: C/C++, Python, C#, SQL
 - Platform: Raspberry Pi · Arduino · Linux
-
+<br>
 # 기술 스택
 
 ## 사용 언어
@@ -45,7 +45,7 @@ Postman: REST API 요청 및 응답 테스트
 MySQL / DBeaver: 데이터베이스 설계, SQL 작성 및 데이터 확인
 Linux: Ubuntu 및 Raspberry Pi 기반 개발 환경 사용
 Arduino IDE: Arduino 센서 및 모터 제어 코드 작성
-
+<br>
 # 기술 명세
 
 | 분류 | 보유 기술 |
