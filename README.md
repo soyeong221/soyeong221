@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-  IoT · Embedded Developer
+  IoT · Embedded · System Integration
 </h2>
 
 # Profile
@@ -16,13 +16,13 @@
 
 # About Me
 
-전기·반도체 전공을 기반으로 IoT 시스템 개발을 학습하고 있습니다.
+전기·반도체 전공과 IoT 시스템 개발 교육을 바탕으로  
+하드웨어 제어부터 통신, 데이터 처리, 모니터링까지 이어지는 시스템을 구현했습니다.
 
-Raspberry Pi와 Arduino를 활용한 장치 제어부터 MQTT·Serial 통신,  
-데이터베이스, 모니터링 애플리케이션까지 시스템의 전체 흐름을 구현해 왔습니다.
-
-최근에는 YOLO 기반 객체 인식 등 AI 기술을 기존 시스템과 연동하며  
-IoT·임베디드 시스템의 개발 범위를 확장하고 있습니다.
+- Raspberry Pi / Arduino 기반 센서·모터 제어
+- MQTT · Serial · ROS2 기반 통신 연동
+- MySQL 연동 및 모니터링 애플리케이션 개발
+- YOLO 객체 인식과 하드웨어 제어 연동
 
 ---
 
@@ -30,16 +30,16 @@ IoT·임베디드 시스템의 개발 범위를 확장하고 있습니다.
 
 | Project | Tech | Description |
 |---|---|---|
-| [Smart Factory Packaging Alert](https://github.com/soyeong221/portfolio/tree/main/projects/smart-factory-packaging) | Raspberry Pi · PyQt5 · MQTT · DB | 제품 분류와 생산량 관리, 작업자 HMI를 구현한 스마트팩토리 팀 프로젝트 |
-| [AI Conveyor Process Control](https://github.com/soyeong221/portfolio/tree/main/projects/ai-conveyor-control) | YOLO · Raspberry Pi · Arduino · MQTT | AI 객체 인식 결과를 실제 컨베이어 제품 분류 및 장비 제어와 연동 |
-| [ROS2 Smart Gate](https://github.com/soyeong221/portfolio/tree/main/projects/ros2-smart-gate) | ROS2 · Arduino · Python | 센서 데이터를 기반으로 위험 상태를 판단하고 게이트와 LED를 제어하는 시스템 |
+| [AI Conveyor Process Control](https://github.com/soyeong221/portfolio/tree/main/projects/ai-conveyor-control) | YOLO · Raspberry Pi · Arduino · MQTT | AI 객체 인식 기반 제품 분류 및 컨베이어 제어 |
+| [ROS2 Smart Gate](https://github.com/soyeong221/portfolio/tree/main/projects/ros2-smart-gate) | ROS2 · Arduino · Python | 센서 데이터 기반 위험 상태 판단 및 게이트 제어 |
+| [ITS CCTV](https://github.com/soyeong221/portfolio/tree/main/projects/its-cctv) | C# · WPF · ASP.NET Core | Open API 기반 실시간 CCTV·지도 통합 모니터링 |
 
 ---
 
 # Portfolio
 
-위 대표 프로젝트 외에도 AI Knowledge Search System, SmartHome IoT, ITS CCTV 등  
-IoT·AI·응용 소프트웨어 프로젝트의 개발 과정과 트러블슈팅을 정리했습니다.
+AI Knowledge Search System, SmartHome IoT, AI Fire Detection 등  
+다양한 IoT·AI·응용 소프트웨어 프로젝트의 개발 과정과 트러블슈팅을 정리했습니다.
 
 🔗 [View Full Portfolio](https://github.com/soyeong221/portfolio)
 
