@@ -8,39 +8,40 @@
 
 # Profile
 
-- Name: 박소영 (Park So Yeong)
-- Email: soyeong221@gmail.com
-- Major: 전기공학부 · 디스플레이반도체공학전공
+* Name: 박소영 (Park So Yeong)
+* Email: [soyeong221@gmail.com](mailto:soyeong221@gmail.com)
+* Major: 전기공학부 · 디스플레이반도체공학전공
 
 ---
 
 # About Me
 
-전기·반도체 전공과 IoT 시스템 개발 교육을 바탕으로  
+전기·반도체 전공과 IoT 시스템 개발 교육을 바탕으로
 하드웨어 제어부터 통신, 데이터 처리, 응용프로그램까지 이어지는 시스템을 구현했습니다.
 
-- Raspberry Pi / Arduino 기반 센서·장치 제어
-- C# · WPF 기반 응용프로그램 및 ASP.NET Core Web API 연동
-- MQTT · Serial · ROS2 기반 시스템 통신
-- MySQL 연동 및 데이터 저장·모니터링
-- YOLO 객체 인식과 하드웨어 제어 연동
+* Raspberry Pi / Arduino 기반 센서·장치 제어
+* Python · PyQt5 기반 작업자 HMI 및 C# · WPF 기반 응용프로그램 개발
+* MQTT · REST API · Serial · ROS2 기반 시스템 통신
+* MySQL 연동 및 데이터 저장·모니터링
+* YOLO 객체 인식과 하드웨어 제어 연동
 
 ---
 
 # Featured Projects
 
-| Project | Tech | Description |
-|---|---|---|
-| [AI Conveyor Process Control](https://github.com/soyeong221/portfolio/tree/main/projects/ai-conveyor-control) | YOLO · Raspberry Pi · Arduino · MQTT | AI 객체 인식 기반 제품 분류 및 컨베이어 제어 |
-| [ITS CCTV](https://github.com/soyeong221/portfolio/tree/main/projects/its-cctv) | C# · WPF · ASP.NET Core | Open API 기반 실시간 CCTV·지도 통합 모니터링 |
-| [ROS2 Smart Gate](https://github.com/soyeong221/portfolio/tree/main/projects/ros2-smart-gate) | ROS2 · Arduino · Python | 센서 데이터 기반 위험 상태 판단 및 게이트 제어 |
+| Project                                                                                                             | Tech                                            | Description                        |
+| ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ---------------------------------- |
+| [Smart Factory Production HMI](https://github.com/soyeong221/portfolio/tree/main/projects/smart-factory-production) | Python · PyQt5 · Raspberry Pi · MQTT · REST API | 생산현황 모니터링 및 실시간 설비 제어를 연동한 작업자 HMI |
+| [AI Conveyor Process Control](https://github.com/soyeong221/portfolio/tree/main/projects/ai-conveyor-control)       | Python · YOLO · Raspberry Pi · Arduino · MQTT   | AI 객체 인식 기반 제품 분류 및 컨베이어 제어        |
+| [ITS CCTV](https://github.com/soyeong221/portfolio/tree/main/projects/its-cctv)                                     | C# · WPF · ASP.NET Core                         | Open API 기반 실시간 CCTV·지도 통합 모니터링    |
+| [ROS2 Smart Gate](https://github.com/soyeong221/portfolio/tree/main/projects/ros2-smart-gate)                       | ROS2 · Arduino · Python                         | 센서 데이터 기반 위험 상태 판단 및 게이트 제어        |
 
 ---
 
 # Portfolio
 
-AI Knowledge Search System, SmartHome IoT, AI Fire Detection 등  
-다양한 IoT·AI·응용 소프트웨어 프로젝트의 개발 과정과 트러블슈팅을 정리했습니다.
+AI Knowledge Search System, SmartHome IoT, AI Fire Detection 등
+다양한 IoT·Embedded·응용 소프트웨어 프로젝트의 개발 과정과 핵심 구현, 트러블슈팅을 정리했습니다.
 
 🔗 [View Full Portfolio](https://github.com/soyeong221/portfolio)
 
@@ -60,11 +61,12 @@ AI Knowledge Search System, SmartHome IoT, AI Fire Detection 등
 ## Technologies
 
 <p align="left">
+  <img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat&logo=qt&logoColor=white" alt="PyQt5"/>
   <img src="https://img.shields.io/badge/WPF-512BD4?style=flat&logo=dotnet&logoColor=white" alt="WPF"/>
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
   <img src="https://img.shields.io/badge/MQTT-660066?style=flat" alt="MQTT"/>
+  <img src="https://img.shields.io/badge/REST_API-009688?style=flat" alt="REST API"/>
   <img src="https://img.shields.io/badge/ROS2-22314E?style=flat" alt="ROS2"/>
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white" alt="Qt"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/YOLO-111F68?style=flat" alt="YOLO"/>
